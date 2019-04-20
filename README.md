@@ -1,2 +1,1 @@
-# partizan 1
-2
+# partizan
